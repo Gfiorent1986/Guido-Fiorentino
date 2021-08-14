@@ -1,26 +1,8 @@
-body  {background-color: rgb(92, 92, 206)}
-h1{font-family: Verdana, Geneva, Tahoma, sans-serif;color: darkturquoise; text-align: center;}
-
-img {
-
-
-    display: block;
-    
-    
-    width: 50%;
-    
-    
-    margin-left: auto;
-    
-    
-    margin-right: auto;
-    
-    
-    }
-    
-    p1 {font-family: Verdana, Geneva, Tahoma, sans-serif;color: floralwhite;}
-
-    th1 {font-family: Verdana, Geneva, Tahoma, sans-serif;color: darkgrey;}
-    th2 {font-family: Verdana, Geneva, Tahoma, sans-serif;color: darkgrey;}
-
-    .Opcion1 {font: italic; color: white;}
+.col-sm-2-verde{background-color: green;
+border: 1px solid orange;}
+.col-sm-5-verde{background-color: green;
+    border: 1px solid orange;}
+    .col-sm-4-verde{background-color: green;
+        border: 1px solid orange;}
+        .col-sm-2-verde{background-color: green;
+            border: 1px solid orange;}
